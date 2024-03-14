@@ -1,7 +1,7 @@
 # test-repo
 Test Repository
 
-markdown:줄 바꾸기
+markdown: 예제
 
 ___
 가로줄
@@ -36,6 +36,8 @@ ___
 
 라이브러리를 불러올 때는 `import math`를 입력
 
-``` def function():```
+```
+def function():
 
-```print("hello world")```
+print("hello world")
+```
